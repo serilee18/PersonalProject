@@ -24,16 +24,19 @@
 ![alt text](images/img14.PNG)
 <br>
 #### [Hand Detection with OpenCV]
-![alt text](images/img10.PNG)
 [Project Link](./Hand_Detection_with_OpenCV&Magnetic_Lift)
 <br>
+![alt text](images/img10.PNG)
+<br>
 #### [AR Controller Ver2]
-![alt text](images/img9.PNG)
 [Project Link](./AR_Controller_Ver2)
 <br>
+![alt text](images/img9.PNG)
+<br>
 #### [AR Controller ver1]
-![alt text](images/img8.PNG)
 [Project Link](./AR_Controller_Ver1)
+<br>
+![alt text](images/img8.PNG)
 <br>
 
 ## 2013
@@ -41,21 +44,28 @@
 ![alt text](images/img13.PNG)
 <br>
 #### [Micromouse]
-![alt text](images/img7.PNG)
 [Project Link](./Micromouse)
 <br>
+![alt text](images/img7.PNG)
+<br>
 #### [Mission Impossible]
-![alt text](images/img6.PNG)
 [Project Link](./Mission_Impossible_Ghost_Protocol)
 <br>
+![alt text](images/img6.PNG)
+<br>
+
 #### [Stair Climbing Robot : Team Project]
-![alt text](images/img4.PNG)
 [Project Link](./Stair_Climbing_Robot)
 <br>
+![alt text](images/img4.PNG)
+<br>
+
 #### [Number Recognition Opencv]
-![alt text](images/img1.PNG)
 [Project Link](./Number_Recognition_OpenCV)
 <br>
+![alt text](images/img1.PNG)
+<br>
+
 
 
 ## 2010
