@@ -13,5 +13,5 @@
 <br>
 
 ### [Hardware]
-![alt text](../images/img1.PNG)
-![alt text](../images/img2.PNG)
+![alt text](../images/img3.PNG)
+![alt text](../images/img4.PNG)
