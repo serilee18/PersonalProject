@@ -61,18 +61,14 @@
 ![alt text](images/img15.PNG)
 <br><br><br>
 
-##
 ## [Android Application : Team Project]
 ![alt text](images/img14.PNG)
 <br><br><br>
 
-
-## [Micromouse] [Project Link](./Micromouse)
-<br>
-![alt text](images/img7.PNG)
-<br>
-
-##
 ## [Dragoon : Team Project]
 ![alt text](images/img12.PNG)
+<br><br><br>
+
+## [Micromouse]  [Project Link](./Micromouse)
+![alt text](images/img7.PNG)
 <br><br><br>
